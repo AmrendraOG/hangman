@@ -1,0 +1,22 @@
+word_list = [
+  "Elephant",
+  "Guitar",
+  "Sunshine",
+  "Mountain",
+  "Chocolate",
+  "Ocean",
+  "Adventure",
+  "Dream",
+  "Moonlight",
+  "Serendipity",
+  "Butterfly",
+  "Fireworks",
+  "Rainforest",
+  "Treasure",
+  "Whisper",
+  "Galaxy",
+  "Mystery",
+  "Harmony",
+  "Wanderlust",
+  "Bliss"
+]
